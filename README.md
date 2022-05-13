@@ -23,7 +23,7 @@ cd MultiTool && python multi.py
 
 ## Features :
 
-![All Features](https://github.com/RayhanAhmedAbir/Abir/blob/master/IMG_20220514_001517.png)(https://github.com/RayhanAhmedAbir/Abir/blob/master/IMG_20220514_001517.png)
+![All Features](https://github.com/RayhanAhmedAbir/Abir/blob/master/IMG_20220514_001517.png)!(https://github.com/RayhanAhmedAbir/Abir/blob/master/IMG_20220514_001517.png)
 
 
 
